@@ -14,6 +14,6 @@ if git diff --cached --quiet; then
     echo "Nessuna modifica da pubblicare"
 else
     git commit -m "📊 Aggiornamento offerte $(date '+%Y-%m-%d')"
-    git push origin master
+    git push origin main
     echo "✅ Pubblicato su GitHub Pages"
 fi
