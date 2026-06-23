@@ -3,24 +3,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pronto Spesa — Offerte</title>
+  <title>Pronto Spesa — Catalogo & Offerte</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>" />
 </head>
 <body>
   <header>
     <div class="container">
-      <h1>🛒 Pronto Spesa — Offerte</h1>
-      <p class="subtitle">Migliori offerte PEWEX, aggiornate ogni giorno</p>
+      <h1>🛒 Pronto Spesa</h1>
+      <p class="subtitle">Catalogo completo PEWEX — offerte e prezzi, aggiornati ogni giorno</p>
       <div class="meta">
         <span id="lastUpdate">Caricamento...</span>
-        <span id="totalDeals"></span>
+        <span id="totalInfo"></span>
       </div>
     </div>
   </header>
 
+  <!-- Tab Navigator -->
+  <div class="tabs container">
+    <button class="tab-btn active" data-tab="deals" id="tabDeals">🔥 In Offerta</button>
+    <button class="tab-btn" data-tab="catalog" id="tabCatalog">📦 Tutti i prodotti</button>
+  </div>
+
   <main class="container">
-    <!-- Filtri -->
+    <!-- Filtri (condivisi) -->
     <div class="filters">
       <div class="search-box">
         <input type="text" id="searchInput" placeholder="Cerca prodotto, marca..." autocomplete="off" />
@@ -32,33 +38,41 @@
         <select id="sortBy">
           <option value="discount">Sconto % ↓</option>
           <option value="price">Prezzo ↑</option>
+          <option value="price-desc">Prezzo ↓</option>
           <option value="name">Nome A-Z</option>
-          <option value="expire">Scadenza ↑</option>
         </select>
-        <select id="minDiscount">
+        <select id="minDiscount" class="deals-only">
           <option value="0">Tutti</option>
-          <option value="30">≥ 30%</option>
-          <option value="40">≥ 40%</option>
-          <option value="50">≥ 50%</option>
+          <option value="30">≥ 30% sconto</option>
+          <option value="40">≥ 40% sconto</option>
+          <option value="50">≥ 50% sconto</option>
         </select>
       </div>
       <div class="stats-bar">
         <span id="resultsCount"></span>
+        <span id="catalogHint" class="catalog-hint" style="display:none">🔍 Premi Invio per cercare nel catalogo completo</span>
       </div>
     </div>
 
-    <!-- Griglia offerte -->
-    <div id="dealsGrid" class="deals-grid"></div>
+    <!-- Sezione Offerte -->
+    <div id="dealsSection" class="tab-content active">
+      <div id="dealsGrid" class="deals-grid"></div>
+    </div>
+
+    <!-- Sezione Catalogo -->
+    <div id="catalogSection" class="tab-content">
+      <div id="catalogGrid" class="catalog-grid"></div>
+    </div>
 
     <!-- Pulsante carica altro -->
     <div id="loadMoreContainer" class="load-more">
-      <button id="loadMoreBtn" class="btn" style="display:none">Mostra altre offerte</button>
+      <button id="loadMoreBtn" class="btn" style="display:none">Mostra altri risultati</button>
     </div>
   </main>
 
   <footer>
     <div class="container">
-      <p>Dati aggiornati automaticamente ogni mattina alle 07:20 · Fonte: <a href="https://pewex.it" target="_blank">PEWEX/Pronto Spesa</a></p>
+      <p>Dati aggiornati automaticamente ogni mattina · Fonte: <a href="https://pewex.it" target="_blank">PEWEX/Pronto Spesa</a></p>
       <p class="footer-small">I prezzi potrebbero variare · Verifica sempre in negozio</p>
     </div>
   </footer>

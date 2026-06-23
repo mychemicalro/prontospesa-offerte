@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-  max-width: 960px;
+  max-width: 1040px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -40,7 +40,7 @@ body {
 header {
   background: linear-gradient(135deg, var(--green) 0%, var(--green-light) 100%);
   color: white;
-  padding: 32px 0 24px;
+  padding: 24px 0 20px;
   text-align: center;
 }
 
@@ -53,7 +53,7 @@ header h1 {
 .subtitle {
   font-size: 0.95rem;
   opacity: 0.9;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .meta {
@@ -65,16 +65,51 @@ header h1 {
   flex-wrap: wrap;
 }
 
+/* === Tabs === */
+.tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 5;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 12px 20px;
+  border: none;
+  background: #e0e0e0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  color: var(--text-secondary);
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.tab-btn:first-child { border-radius: var(--radius) 0 0 0; }
+.tab-btn:last-child { border-radius: 0 var(--radius) 0 0; }
+
+.tab-btn.active {
+  background: var(--card-bg);
+  color: var(--green);
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+}
+
+.tab-btn:hover:not(.active) {
+  background: #d0d0d0;
+}
+
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
 /* === Filtri === */
 .filters {
   background: var(--card-bg);
-  border-radius: var(--radius);
+  border-radius: 0 0 var(--radius) var(--radius);
   box-shadow: var(--shadow);
   padding: 16px;
-  margin: -16px auto 20px;
-  position: relative;
-  z-index: 10;
-  max-width: 928px;
+  margin-bottom: 20px;
 }
 
 .search-box input {
@@ -101,7 +136,7 @@ header h1 {
 
 .filter-group select {
   flex: 1;
-  min-width: 140px;
+  min-width: 130px;
   padding: 8px 10px;
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -121,7 +156,12 @@ header h1 {
   color: var(--text-secondary);
 }
 
-/* === Griglia Offerte === */
+.catalog-hint {
+  color: var(--orange);
+  font-style: italic;
+}
+
+/* === Offerte: Card Grid === */
 .deals-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -214,6 +254,83 @@ header h1 {
   margin-top: auto;
 }
 
+/* === Catalogo: Tabella === */
+.catalog-grid {
+  margin-top: 8px;
+}
+
+.catalog-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  font-size: 0.85rem;
+}
+
+.catalog-table thead {
+  background: var(--green);
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+.catalog-table th {
+  padding: 10px 8px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.catalog-table td {
+  padding: 8px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+.catalog-table tr:hover {
+  background: var(--green-bg);
+}
+
+.cat-promo-badge {
+  display: inline-block;
+  background: var(--red);
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+.cat-vendor {
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+}
+
+.cat-name {
+  font-weight: 500;
+}
+
+.cat-price {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cat-price.promo {
+  color: var(--red);
+}
+
+.cat-full-price {
+  color: var(--text-secondary);
+  text-decoration: line-through;
+  font-size: 0.78rem;
+  margin-left: 4px;
+}
+
 /* === Load More === */
 .load-more {
   text-align: center;
@@ -258,8 +375,12 @@ footer a {
 }
 
 /* === Responsive === */
-@media (max-width: 640px) {
+@media (max-width: 720px) {
   header h1 { font-size: 1.3rem; }
   .deals-grid { grid-template-columns: 1fr; }
   .filter-group select { min-width: 100%; }
+  
+  .catalog-table { font-size: 0.78rem; }
+  .catalog-table th, .catalog-table td { padding: 6px 4px; }
+  .catalog-table .hide-mobile { display: none; }
 }
