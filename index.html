@@ -11,13 +11,20 @@
   <header>
     <div class="container">
       <h1>🛒 Pronto Spesa</h1>
-      <p class="subtitle">Catalogo completo PEWEX — offerte e prezzi, aggiornati ogni giorno</p>
+      <p class="subtitle">Catalogo PEWEX + CTS — offerte e prezzi, aggiornati ogni giorno</p>
       <div class="meta">
         <span id="lastUpdate">Caricamento...</span>
         <span id="totalInfo"></span>
       </div>
     </div>
   </header>
+
+  <!-- Supermercato Tabs -->
+  <div class="sm-tabs container">
+    <button class="sm-tab active" data-sm="all" id="smAll">🏪 Tutti</button>
+    <button class="sm-tab" data-sm="pewex" id="smPewex">🟢 PEWEX</button>
+    <button class="sm-tab" data-sm="cts" id="smCts">🟠 CTS</button>
+  </div>
 
   <!-- Tab Navigator -->
   <div class="tabs container">
@@ -26,7 +33,7 @@
   </div>
 
   <main class="container">
-    <!-- Filtri (condivisi) -->
+    <!-- Filtri -->
     <div class="filters">
       <div class="search-box">
         <input type="text" id="searchInput" placeholder="Cerca prodotto, marca..." autocomplete="off" />
@@ -50,7 +57,7 @@
       </div>
       <div class="stats-bar">
         <span id="resultsCount"></span>
-        <span id="catalogHint" class="catalog-hint" style="display:none">🔍 Premi Invio per cercare nel catalogo completo</span>
+        <span id="catalogHint" class="catalog-hint" style="display:none">🔍 Premi Invio per cercare</span>
       </div>
     </div>
 
@@ -64,7 +71,7 @@
       <div id="catalogGrid" class="catalog-grid"></div>
     </div>
 
-    <!-- Pulsante carica altro -->
+    <!-- Load More -->
     <div id="loadMoreContainer" class="load-more">
       <button id="loadMoreBtn" class="btn" style="display:none">Mostra altri risultati</button>
     </div>
@@ -72,7 +79,7 @@
 
   <footer>
     <div class="container">
-      <p>Dati aggiornati automaticamente ogni mattina · Fonte: <a href="https://pewex.it" target="_blank">PEWEX/Pronto Spesa</a></p>
+      <p>Dati aggiornati automaticamente ogni mattina · Fonti: <a href="https://pewex.it" target="_blank">PEWEX</a> · <a href="https://www.ctsspesaonline.it/" target="_blank">CTS</a></p>
       <p class="footer-small">I prezzi potrebbero variare · Verifica sempre in negozio</p>
     </div>
   </footer>

@@ -384,3 +384,48 @@ footer a {
   .catalog-table th, .catalog-table td { padding: 6px 4px; }
   .catalog-table .hide-mobile { display: none; }
 }
+
+/* === Supermercato Tabs === */
+.sm-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 0;
+  margin-top: 8px;
+  position: relative;
+  z-index: 6;
+}
+
+.sm-tab {
+  flex: 1;
+  padding: 10px 16px;
+  border: none;
+  background: #d0d0d0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  color: var(--text-secondary);
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.sm-tab:first-child { border-radius: var(--radius) 0 0 0; }
+.sm-tab:last-child { border-radius: 0 var(--radius) 0 0; }
+
+.sm-tab.active {
+  background: var(--card-bg);
+  color: var(--green);
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+}
+
+.sm-tab:hover:not(.active) {
+  background: #c0c0c0;
+}
+
+.sm-badge {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.deal-card .sm-badge {
+  margin-bottom: 6px;
+}

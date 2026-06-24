@@ -5,6 +5,7 @@ const CATALOG_PAGE = 100;
 let allDeals = [];
 let allCatalog = [];
 let currentTab = 'deals';
+let currentSm = 'all';
 let displayedCount = 0;
 let currentFiltered = [];
 
@@ -16,6 +17,18 @@ const badgeClass = (pct) => {
   if (pct >= 50) return 'top';
   if (pct >= 40) return 'high';
   return '';
+};
+
+const smLabel = (sm) => {
+  if (sm === 'pewex') return 'PEWEX';
+  if (sm === 'cts') return 'CTS';
+  return sm;
+};
+
+const smColor = (sm) => {
+  if (sm === 'pewex') return '#28a745';
+  if (sm === 'cts') return '#fd7e14';
+  return '#666';
 };
 
 /* === Load Data === */
@@ -30,15 +43,18 @@ async function loadData() {
 
     allDeals = dealsData.deals || [];
     allCatalog = catalogData.products || [];
+    const meta = catalogData.supermarkets || {};
 
     document.getElementById('lastUpdate').textContent = `📅 ${dealsData.date || catalogData.date || '—'}`;
 
+    const totalProducts = allCatalog.length;
     const promoCount = allCatalog.filter(p => p.is_promo).length;
+    const smInfo = Object.entries(meta).map(([k, v]) => `${smLabel(k)}: ${v.total || 0} prod.`).join(' · ');
     document.getElementById('totalInfo').textContent =
-      `📦 ${allCatalog.length} prodotti · 🔥 ${promoCount} in offerta`;
+      `📦 ${totalProducts} prodotti · 🔥 ${promoCount} in offerta · 🏪 ${smInfo}`;
 
     populateCategories();
-    showTab('deals');
+    applyFilters();
   } catch (e) {
     document.getElementById('dealsGrid').innerHTML =
       '<p style="text-align:center;padding:40px;color:#666">⏳ Dati in aggiornamento. Riprova tra qualche minuto.</p>';
@@ -57,19 +73,27 @@ function populateCategories() {
   });
 }
 
+/* === Supermercato Filter === */
+function setSupermarket(sm) {
+  currentSm = sm;
+  document.querySelectorAll('.sm-tab').forEach(b => b.classList.toggle('active', b.dataset.sm === sm));
+  displayedCount = 0;
+  applyFilters();
+}
+
+document.querySelectorAll('.sm-tab').forEach(btn => {
+  btn.addEventListener('click', () => setSupermarket(btn.dataset.sm));
+});
+
 /* === Tab Switching === */
 function showTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
   document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id.startsWith(tab)));
 
-  // Show/hide deals-only filter
   document.querySelectorAll('.deals-only').forEach(el => el.style.display = tab === 'deals' ? 'block' : 'none');
-
-  // Catalog hint
   document.getElementById('catalogHint').style.display = tab === 'catalog' ? 'inline' : 'none';
 
-  // Reset and apply
   displayedCount = 0;
   applyFilters();
 }
@@ -91,12 +115,14 @@ function applyFilters() {
     const name = item.name || '';
     const vendor = item.vendor || '';
 
+    // Supermarket filter
+    if (currentSm !== 'all' && item.supermarket !== currentSm) return false;
+
+    // Search
     if (currentTab === 'catalog') {
-      // Catalog: search requires min chars or category filter
-      if (q.length < 2 && !cat) return true; // show all if no filter
+      if (q.length < 2 && !cat) return true;
       if (q.length >= 2 && !name.toLowerCase().includes(q) && !vendor.toLowerCase().includes(q)) return false;
     } else {
-      // Deals: always search immediately
       if (q && !name.toLowerCase().includes(q) && !vendor.toLowerCase().includes(q)) return false;
     }
 
@@ -105,7 +131,6 @@ function applyFilters() {
     if (currentTab === 'deals') {
       if (minD > 0 && safeDiscount(item) < minD) return false;
     } else {
-      // Catalog: filter by promo if minDiscount > 0
       if (minD > 0 && !item.is_promo) return false;
     }
 
@@ -114,11 +139,6 @@ function applyFilters() {
 
   // Sort
   currentFiltered.sort((a, b) => {
-    const getVal = (x) => {
-      if (currentTab === 'deals') return safeDiscount(x);
-      return x.price || 0;
-    };
-
     switch (sort) {
       case 'discount': {
         const da = currentTab === 'deals' ? safeDiscount(a) : (a.is_promo ? 100 : 0);
@@ -134,20 +154,21 @@ function applyFilters() {
 
   displayedCount = 0;
 
-  if (currentTab === 'deals') {
-    document.getElementById('dealsGrid').innerHTML = '';
-    document.getElementById('catalogGrid').innerHTML = '';
-  } else {
-    document.getElementById('catalogGrid').innerHTML = '';
-    document.getElementById('dealsGrid').innerHTML = '';
-  }
-
   const container = currentTab === 'deals' ? 'dealsGrid' : 'catalogGrid';
-  const pageSize = currentTab === 'deals' ? DEALS_PAGE : CATALOG_PAGE;
+  document.getElementById('dealsGrid').innerHTML = '';
+  document.getElementById('catalogGrid').innerHTML = '';
 
+  const pageSize = currentTab === 'deals' ? DEALS_PAGE : CATALOG_PAGE;
   document.getElementById('loadMoreBtn').style.display = currentFiltered.length > pageSize ? 'inline-block' : 'none';
   updateStats();
   renderMore();
+}
+
+/* === Sm Badge === */
+function smBadge(sm) {
+  const label = smLabel(sm);
+  const color = smColor(sm);
+  return `<span class="sm-badge" style="background:${color};color:#fff;font-size:10px;padding:2px 6px;border-radius:4px;font-weight:700;white-space:nowrap">${label}</span>`;
 }
 
 /* === Render: Offerte (cards) === */
@@ -157,8 +178,13 @@ function renderDeals(batch) {
     const disc = safeDiscount(d);
     const card = document.createElement('div');
     card.className = 'deal-card';
+    let alsoHtml = '';
+    if (d.also_at && currentSm !== 'all') {
+      alsoHtml = `<div class="deal-also" style="margin-top:6px;font-size:11px;color:#888">🔄 Anche su CTS: ${formatPrice(d.also_at.price)}</div>`;
+    }
     card.innerHTML = `
       <span class="deal-badge ${badgeClass(disc)}">-${Math.round(disc)}%</span>
+      ${smBadge(d.supermarket)}
       <div class="deal-vendor">${esc(d.vendor)}</div>
       <div class="deal-name">${esc(d.name)}</div>
       <div class="deal-prices">
@@ -168,6 +194,7 @@ function renderDeals(batch) {
       <div class="deal-category">${esc(d.category)}</div>
       ${d.avg_price_2m ? `<div class="deal-category">Media 2 mesi: ${formatPrice(d.avg_price_2m)}</div>` : ''}
       <div class="deal-expire">${d.expire ? `Scade: ${d.expire}` : ''}</div>
+      ${alsoHtml}
     `;
     grid.appendChild(card);
   });
@@ -187,7 +214,8 @@ function renderCatalog(batch) {
               <th>Prodotto</th>
               <th class="hide-mobile">Categoria</th>
               <th>Prezzo</th>
-              <th style="text-align:center">Offerta</th>
+              <th>Offerta</th>
+              <th style="text-align:center">Supermercato</th>
             </tr>
           </thead>
           <tbody id="catalogBody"></tbody>
@@ -199,10 +227,15 @@ function renderCatalog(batch) {
   const tbody = document.getElementById('catalogBody');
   batch.forEach(p => {
     const tr = document.createElement('tr');
+    let alsoHtml = '';
+    if (p.also_at && currentSm !== 'all') {
+      alsoHtml = `<div style="font-size:11px;color:#888;margin-top:2px">🔄 CTS: ${formatPrice(p.also_at.price)}</div>`;
+    }
     tr.innerHTML = `
       <td>
         <div class="cat-name">${esc(p.name)}</div>
         <div class="cat-vendor">${esc(p.vendor)}</div>
+        ${alsoHtml}
       </td>
       <td class="hide-mobile">${esc(p.category)}</td>
       <td class="cat-price ${p.is_promo ? 'promo' : ''}">
@@ -211,6 +244,9 @@ function renderCatalog(batch) {
       </td>
       <td style="text-align:center">
         ${p.is_promo ? `<span class="cat-promo-badge">-${Math.round(p.discount_pct || 0)}%</span>` : '—'}
+      </td>
+      <td style="text-align:center">
+        ${smBadge(p.supermarket)}
       </td>
     `;
     tbody.appendChild(tr);
@@ -255,7 +291,6 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
     displayedCount = 0;
     applyFilters();
   }
-  // For catalog, wait for Enter or 3+ chars
   if (currentTab === 'catalog' && e.target.value.length >= 2) {
     displayedCount = 0;
     applyFilters();
