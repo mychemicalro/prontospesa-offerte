@@ -331,6 +331,24 @@ header h1 {
   margin-left: 4px;
 }
 
+.cat-avgprice {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  font-weight: 400;
+  margin-top: 1px;
+}
+
+.deal-avgprice {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.deal-avgprice .saving {
+  color: var(--red);
+  font-weight: 600;
+}
+
 /* === Load More === */
 .load-more {
   text-align: center;

@@ -178,6 +178,19 @@ function renderDeals(batch) {
     const disc = safeDiscount(d);
     const card = document.createElement('div');
     card.className = 'deal-card';
+    
+    // Prezzo medio non-promo (indicatore sconto reale)
+    let avgHtml = '';
+    if (d.avg_nonpromo && d.avg_nonpromo > 0 && d.avg_nonpromo !== d.price) {
+      const realSaving = Math.round((1 - d.price / d.avg_nonpromo) * 100);
+      avgHtml = `<div class="deal-avgprice">📊 Prezzo medio 30gg: ${formatPrice(d.avg_nonpromo)} <span class="saving">(risparmio reale: -${realSaving}%)</span></div>`;
+    } else if (d.avg_price_all && d.avg_price_all > 0) {
+      avgHtml = `<div class="deal-avgprice">📊 Media prezzi: ${formatPrice(d.avg_price_all)}</div>`;
+    } else if (d.avg_price_2m && d.avg_price_2m > 0 && d.avg_price_2m !== d.price) {
+      const realSaving = Math.round((1 - d.price / d.avg_price_2m) * 100);
+      avgHtml = `<div class="deal-avgprice">📊 Media 2 mesi: ${formatPrice(d.avg_price_2m)} <span class="saving">(risparmio reale: -${realSaving}%)</span></div>`;
+    }
+    
     let alsoHtml = '';
     if (d.also_at && currentSm !== 'all') {
       alsoHtml = `<div class="deal-also" style="margin-top:6px;font-size:11px;color:#888">🔄 Anche su CTS: ${formatPrice(d.also_at.price)}</div>`;
@@ -191,8 +204,8 @@ function renderDeals(batch) {
         <span class="deal-price">${formatPrice(d.price)}</span>
         ${d.price_full > d.price ? `<span class="deal-full-price">${formatPrice(d.price_full)}</span>` : ''}
       </div>
+      ${avgHtml}
       <div class="deal-category">${esc(d.category)}</div>
-      ${d.avg_price_2m ? `<div class="deal-category">Media 2 mesi: ${formatPrice(d.avg_price_2m)}</div>` : ''}
       <div class="deal-expire">${d.expire ? `Scade: ${d.expire}` : ''}</div>
       ${alsoHtml}
     `;
@@ -241,6 +254,7 @@ function renderCatalog(batch) {
       <td class="cat-price ${p.is_promo ? 'promo' : ''}">
         ${formatPrice(p.price)}
         ${p.price_full ? `<span class="cat-full-price">${formatPrice(p.price_full)}</span>` : ''}
+        ${p.avg_nonpromo && p.avg_nonpromo !== p.price ? `<div class="cat-avgprice">Media: ${formatPrice(p.avg_nonpromo)}</div>` : (p.avg_price ? `<div class="cat-avgprice">Media: ${formatPrice(p.avg_price)}</div>` : '')}
       </td>
       <td style="text-align:center">
         ${p.is_promo ? `<span class="cat-promo-badge">-${Math.round(p.discount_pct || 0)}%</span>` : '—'}
