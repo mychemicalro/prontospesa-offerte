@@ -15,7 +15,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.19,
-      "avg_price_all": 1.67
+      "avg_price_all": 1.9
     },
     {
       "name": "ACQUA OLIGOMINERALE NATURALE",
@@ -298,8 +298,8 @@
       "avg_price_2m": 5.49,
       "samples": 5,
       "supermarket": "cts",
-      "avg_nonpromo": 5.49,
-      "avg_price_all": 3.74
+      "avg_nonpromo": 5.37,
+      "avg_price_all": 3.85
     },
     {
       "name": "BARATTOLINO CARAMELLO SALATO",
@@ -389,7 +389,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.44
+      "avg_price_all": 2.54
     },
     {
       "name": "AMMORBIDENTE CLASSICO 40 LAVAGGI",
@@ -419,7 +419,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.44
+      "avg_price_all": 2.54
     },
     {
       "name": "AMMORBIDENTE AMBRA E VANIGLIA 40 LAVAGGI",
@@ -537,7 +537,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.2
+      "avg_price_all": 1.24
     },
     {
       "name": "ACQUA NATURALE",
@@ -657,7 +657,7 @@
       "samples": 6,
       "supermarket": "cts",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.43
+      "avg_price_all": 1.44
     },
     {
       "name": "ACTIVIA CEREALI FIBRE E PROBIOTICO",
@@ -717,7 +717,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.63
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO ARIA DI PRIMAVERA 42 LAVAGGI",
@@ -747,7 +747,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.63
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO SANDALO & CAPRIFOGLIO 42 LAVAGGI",
@@ -777,7 +777,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.72
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO DELICATO E SOFFICE 42 LAVAGGI",
@@ -807,7 +807,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.63
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE FIORI DI TIARÈ & FRUTTI ROSSI 42 LAVAGGI",
@@ -837,7 +837,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.63
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE ORCHIDEA VIOLA & MIRTILLI 42 LAVAGGI",
@@ -896,7 +896,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.59
+      "avg_price_all": 3.72
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO FRESH & PROTECT PEONIA ROSSA & MELA 41 LAVAGGI",
@@ -1016,7 +1016,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.69,
-      "avg_price_all": 1.99
+      "avg_price_all": 2.05
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -1076,7 +1076,7 @@
       "samples": 6,
       "supermarket": "cts",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 2.21
+      "avg_price_all": 2.22
     },
     {
       "name": "PRIMO SALE SENZA LATTOSIO",
@@ -1106,7 +1106,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.65
+      "avg_price_all": 2.73
     },
     {
       "name": "ANTICALCARE CLASSICO",
@@ -1136,7 +1136,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.65
+      "avg_price_all": 2.73
     },
     {
       "name": "ANTICALCARE FRESCO PROFUMO ROSA DI PRIMAVERA",
@@ -1181,7 +1181,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.65
+      "avg_price_all": 2.73
     },
     {
       "name": "BAGNO EXPRESS SENZA RISCIACQUO",
@@ -1315,7 +1315,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 6.89
+      "avg_price_all": 7.08
     },
     {
       "name": "ACETO BALSAMICO DI MODENA IGP",
@@ -1330,7 +1330,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 7.08
+      "avg_price_all": 7.24
     },
     {
       "name": "BARISTA SOYA",
@@ -1360,7 +1360,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.29
+      "avg_price_all": 2.35
     },
     {
       "name": "4 INVOLTINI PRIMAVERA VEGETARIANI",
@@ -1375,7 +1375,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.35
+      "avg_price_all": 2.41
     },
     {
       "name": "CARAMELLE GOMMOSE AI GUSTI FRUTTA",
@@ -1553,7 +1553,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.16
+      "avg_price_all": 2.22
     },
     {
       "name": "ALBICOCCA SUCCO E POLPA",
@@ -1583,7 +1583,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.16
+      "avg_price_all": 2.22
     },
     {
       "name": "ACE",
@@ -1598,7 +1598,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.22
+      "avg_price_all": 2.27
     },
     {
       "name": "BIRRA ORIGINAL INTENSE BLOND ",
@@ -1658,7 +1658,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.72
+      "avg_price_all": 2.79
     },
     {
       "name": "BAGNODOCCIA CREME SOFT",
@@ -1688,7 +1688,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.72
+      "avg_price_all": 2.79
     },
     {
       "name": "BAGNODOCCIA CREME CARE",
@@ -1718,7 +1718,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.72
+      "avg_price_all": 2.79
     },
     {
       "name": "BAGNODOCCIA CREME ALOE & NATURAL ALOE",
@@ -1778,7 +1778,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.26
+      "avg_price_all": 2.32
     },
     {
       "name": "A+C+E",
@@ -1793,7 +1793,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.37
     },
     {
       "name": "ARANCIA ROSSA - CAROTA A+C+E",
@@ -1808,7 +1808,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.26
+      "avg_price_all": 2.32
     },
     {
       "name": "ARANCIA ROSSA - CAROTA A+C+E",
@@ -1838,7 +1838,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.26
+      "avg_price_all": 2.32
     },
     {
       "name": "ANANAS-COCCO",
@@ -1868,7 +1868,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.59,
-      "avg_price_all": 2.03
+      "avg_price_all": 2.08
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -1913,7 +1913,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 1.8
+      "avg_price_all": 1.84
     },
     {
       "name": "ACQUA NATURALE ECOGREEN",
@@ -1986,7 +1986,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.57
+      "avg_price_all": 1.61
     },
     {
       "name": "BACON BURGER",
@@ -2016,7 +2016,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.94
+      "avg_price_all": 4.04
     },
     {
       "name": "AMANDO GELATO ALLA VANIGLIA VARIEGATO AL CACAO E NOCCIOLA",
@@ -2046,7 +2046,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.94
+      "avg_price_all": 4.04
     },
     {
       "name": "AMANDO STECCHI GELATO ALLA VANIGLIA VARIEGATO AL LIME E ZENZERO CON COPERTURA DI SORBETTO ALLA FRUTTA x6",
@@ -2106,7 +2106,7 @@
       "samples": 3,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.94
+      "avg_price_all": 4.04
     },
     {
       "name": "BALSAMO DEEP CARE INTENSE KERATIN PER CAPELLI FRAGILI",
@@ -2166,7 +2166,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.11
+      "avg_price_all": 1.14
     },
     {
       "name": "ARANCIA ROSSA",
@@ -2239,7 +2239,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.23
+      "avg_price_all": 2.28
     },
     {
       "name": "ABBRACCI CON CACAO E PANNA FRESCA",
@@ -2254,7 +2254,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.28
+      "avg_price_all": 2.32
     },
     {
       "name": "BISCOTTI",
@@ -2314,7 +2314,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.23
+      "avg_price_all": 2.28
     },
     {
       "name": "ACQUA NATURALE BABY",
@@ -2448,7 +2448,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 5.49,
-      "avg_price_all": 4.44
+      "avg_price_all": 4.54
     },
     {
       "name": "ALCAMO DOC",
@@ -2523,7 +2523,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.54
+      "avg_price_all": 1.57
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -2596,7 +2596,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.29
+      "avg_price_all": 3.35
     },
     {
       "name": "12 BASTONCINI",
@@ -2611,7 +2611,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.35
+      "avg_price_all": 3.41
     },
     {
       "name": "CHARDONNAY LAZIO IGP",
@@ -2728,7 +2728,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.94
+      "avg_price_all": 5.04
     },
     {
       "name": "958 SPRITZ APERITIVO READY TO DRINK",
@@ -2743,7 +2743,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.04
+      "avg_price_all": 5.12
     },
     {
       "name": "BIANCOSTATO IN SALSA BBQ",
@@ -2773,7 +2773,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.29,
-      "avg_price_all": 1.08
+      "avg_price_all": 1.1
     },
     {
       "name": "100% FRUTTA MELA E MIRTILLO",
@@ -2788,7 +2788,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.29,
-      "avg_price_all": 1.1
+      "avg_price_all": 1.11
     },
     {
       "name": "CREMA CORPO IDRATANTE RASSODANTE Q10",
@@ -2877,7 +2877,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.14
+      "avg_price_all": 2.17
     },
     {
       "name": "BAGNO FRESCHEZZA INTENSA AMBIPUR",
@@ -2907,7 +2907,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.0
+      "avg_price_all": 3.04
     },
     {
       "name": "APERITIVO ANALCOLICO BIONDO RICETTA ORIGINALE",
@@ -2937,7 +2937,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.0
+      "avg_price_all": 3.04
     },
     {
       "name": "APERITIVO ANALCOLICO GUSTO ARANCIA ROSSA",
@@ -3258,7 +3258,8 @@
       "avg_price_2m": 5.99,
       "samples": 2,
       "supermarket": "cts",
-      "avg_price_all": 4.99
+      "avg_nonpromo": 5.99,
+      "avg_price_all": 5.08
     },
     {
       "name": "ANSONICA COSTA DELL'ARGENTARIO DOC",
@@ -3302,7 +3303,7 @@
       "samples": 1,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.09
+      "avg_price_all": 5.04
     },
     {
       "name": "4 HAMBURGER CON TACCHINO CON ROSMARINO",
@@ -3317,7 +3318,7 @@
       "samples": 3,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.17
+      "avg_price_all": 5.12
     },
     {
       "name": "CAPPELLETTI AL PROSCIUTTO CRUDO",
@@ -3377,7 +3378,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.64
+      "avg_price_all": 2.67
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP",
@@ -3392,7 +3393,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.67
+      "avg_price_all": 2.7
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP SENZA AGLIO",
@@ -3407,7 +3408,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.64
+      "avg_price_all": 2.67
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP SENZA AGLIO",
@@ -3422,7 +3423,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.67
+      "avg_price_all": 2.7
     },
     {
       "name": "MORTADELLA BOLOGNA IGP",
@@ -3436,23 +3437,23 @@
       "avg_price_2m": 1.99,
       "samples": 5,
       "supermarket": "cts",
-      "avg_nonpromo": 1.99,
-      "avg_price_all": 1.78
-    },
-    {
-      "name": "MORTADELLA BOLOGNA IGP",
-      "vendor": "CONSILIA",
-      "price": 1.69,
-      "price_full": 1.99,
-      "label_discount": 15.1,
-      "real_discount_pct": 15.1,
-      "category": "Salumi e formaggi",
-      "expire": "21/07/2026",
-      "avg_price_2m": 1.99,
-      "samples": 8,
-      "supermarket": "pewex",
       "avg_nonpromo": 1.99,
       "avg_price_all": 1.8
+    },
+    {
+      "name": "MORTADELLA BOLOGNA IGP",
+      "vendor": "CONSILIA",
+      "price": 1.69,
+      "price_full": 1.99,
+      "label_discount": 15.1,
+      "real_discount_pct": 15.1,
+      "category": "Salumi e formaggi",
+      "expire": "21/07/2026",
+      "avg_price_2m": 1.99,
+      "samples": 8,
+      "supermarket": "pewex",
+      "avg_nonpromo": 1.99,
+      "avg_price_all": 1.81
     },
     {
       "name": "ALBUME UOVO AEUILIBRIUM",
@@ -3467,7 +3468,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.78
+      "avg_price_all": 1.8
     },
     {
       "name": "ALBUME UOVO AEUILIBRIUM",
@@ -3554,7 +3555,7 @@
       "avg_price_2m": 3.49,
       "samples": 2,
       "supermarket": "cts",
-      "avg_price_all": 2.93
+      "avg_price_all": 2.94
     },
     {
       "name": "BABY SUGO RAGU DI CARNE",
@@ -3583,7 +3584,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 7.99,
-      "avg_price_all": 7.29
+      "avg_price_all": 7.35
     },
     {
       "name": "SALMONE AFFUMICATO SELVAGGIO D'ALASKA",
@@ -3598,7 +3599,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 7.99,
-      "avg_price_all": 7.35
+      "avg_price_all": 7.41
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -3613,7 +3614,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.64
+      "avg_price_all": 3.67
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -3657,7 +3658,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 14.98,
-      "avg_price_all": 13.8
+      "avg_price_all": 13.9
     },
     {
       "name": "ARISTA A FETTE",
@@ -3801,7 +3802,8 @@
       "avg_price_2m": 4.99,
       "samples": 2,
       "supermarket": "cts",
-      "avg_price_all": 4.49
+      "avg_nonpromo": 4.99,
+      "avg_price_all": 4.54
     },
     {
       "name": "ALETTE DI POLLO STUZZICANTI E DORATE",
