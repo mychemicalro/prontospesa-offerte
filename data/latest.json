@@ -15,7 +15,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.19,
-      "avg_price_all": 2.09
+      "avg_price_all": 2.25
     },
     {
       "name": "ACQUA OLIGOMINERALE NATURALE",
@@ -30,7 +30,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.19,
-      "avg_price_all": 2.09
+      "avg_price_all": 2.25
     },
     {
       "name": "BRANDY",
@@ -45,7 +45,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 9.99,
-      "avg_price_all": 6.26
+      "avg_price_all": 6.54
     },
     {
       "name": "CETRIOLI",
@@ -59,8 +59,8 @@
       "avg_price_2m": 2.3,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 2.47,
-      "avg_price_all": 1.61
+      "avg_nonpromo": 2.52,
+      "avg_price_all": 1.7
     },
     {
       "name": "CALAMARATA N.314",
@@ -75,7 +75,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.79,
-      "avg_price_all": 1.62
+      "avg_price_all": 1.64
     },
     {
       "name": "BROCCOLI A ROSETTE",
@@ -90,7 +90,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.69,
-      "avg_price_all": 1.87
+      "avg_price_all": 1.94
     },
     {
       "name": "BIRRA AROMATIZZATA ALLA TEQUILA",
@@ -105,7 +105,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.07
+      "avg_price_all": 1.14
     },
     {
       "name": "CARTA IGIENICA ",
@@ -120,7 +120,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.12
+      "avg_price_all": 2.18
     },
     {
       "name": "DENTIFRICIO WHITE SENSATION",
@@ -135,7 +135,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.4
+      "avg_price_all": 2.47
     },
     {
       "name": "BIRRA",
@@ -150,7 +150,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.36
+      "avg_price_all": 1.41
     },
     {
       "name": "CASARECCE N.88 PASTA DI GRAGNANO IGP",
@@ -165,7 +165,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.08
+      "avg_price_all": 1.11
     },
     {
       "name": "BUCATINI N. 12",
@@ -180,7 +180,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 0.85
+      "avg_price_all": 0.84
     },
     {
       "name": "CINSESINE N. 57",
@@ -195,7 +195,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 0.91
+      "avg_price_all": 0.95
     },
     {
       "name": "BIRRA PREMIUM",
@@ -210,7 +210,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.11
+      "avg_price_all": 1.14
     },
     {
       "name": "DI POLLO",
@@ -225,7 +225,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 0.93,
-      "avg_price_all": 0.68
+      "avg_price_all": 0.7
     },
     {
       "name": "BARATTOLINO PANNA COTTA",
@@ -239,8 +239,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO VANIGLIA E PISTACCHIO",
@@ -254,8 +254,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO L'AMARENA DI COPPA ORO",
@@ -269,8 +269,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO NOCCIOLA",
@@ -284,8 +284,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO CARAMELLO SALATO",
@@ -299,8 +299,8 @@
       "avg_price_2m": 5.49,
       "samples": 5,
       "supermarket": "cts",
-      "avg_nonpromo": 5.29,
-      "avg_price_all": 3.95
+      "avg_nonpromo": 5.24,
+      "avg_price_all": 4.03
     },
     {
       "name": "BARATTOLINO CARAMELLO SALATO",
@@ -314,8 +314,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO WAFER CON VARIEGATURA AL CACAO E NOCCIOLA E WAFER RICOPERTI AL CACAO",
@@ -329,8 +329,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "BARATTOLINO NOCI PECAN E SCIROPPO D'ACERO",
@@ -344,8 +344,8 @@
       "avg_price_2m": 5.49,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.39,
-      "avg_price_all": 3.99
+      "avg_nonpromo": 5.32,
+      "avg_price_all": 4.07
     },
     {
       "name": "DERMOPROTETTIVO SHOWER GEL",
@@ -360,7 +360,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.79,
-      "avg_price_all": 1.32
+      "avg_price_all": 1.36
     },
     {
       "name": "BIFIDUS BIANCO SENZA LATTOSIO",
@@ -375,7 +375,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.79,
-      "avg_price_all": 1.32
+      "avg_price_all": 1.36
     },
     {
       "name": "AMMORBIDENTE CLASSICO 40 LAVAGGI",
@@ -390,7 +390,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.62
+      "avg_price_all": 2.68
     },
     {
       "name": "AMMORBIDENTE CLASSICO 40 LAVAGGI",
@@ -405,7 +405,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.62
+      "avg_price_all": 2.68
     },
     {
       "name": "AMMORBIDENTE AMBRA E VANIGLIA 40 LAVAGGI",
@@ -420,7 +420,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.62
+      "avg_price_all": 2.68
     },
     {
       "name": "AMMORBIDENTE AMBRA E VANIGLIA 40 LAVAGGI",
@@ -435,7 +435,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.62
+      "avg_price_all": 2.68
     },
     {
       "name": "DEODORANTE SPRAY FRESCO NON-STOP PROFUMO DI CRISTALLI MARINI 72h",
@@ -450,7 +450,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.29,
-      "avg_price_all": 3.24
+      "avg_price_all": 3.32
     },
     {
       "name": "CARAMELLO SALATO E NOCI MACADAMIA AUSTRALIANE x4",
@@ -465,7 +465,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.53
+      "avg_price_all": 4.64
     },
     {
       "name": "CIOCCOLATO FONDENTE E MIRTILLI DEI PAESI NORDICI x4",
@@ -480,7 +480,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.53
+      "avg_price_all": 4.64
     },
     {
       "name": "CIOCCOLATO BIANCO MIRTILLI ROSSI SCANDINAVI x4",
@@ -495,7 +495,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.53
+      "avg_price_all": 4.64
     },
     {
       "name": "BIRRA LAGER PREMIUM",
@@ -510,7 +510,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.05
+      "avg_price_all": 1.1
     },
     {
       "name": "BIRRA LAGER DARK",
@@ -525,7 +525,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.05
+      "avg_price_all": 1.1
     },
     {
       "name": "ACQUA NATURALE",
@@ -540,7 +540,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.28
+      "avg_price_all": 1.31
     },
     {
       "name": "ACQUA NATURALE",
@@ -555,7 +555,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.28
+      "avg_price_all": 1.31
     },
     {
       "name": "CINEMA MIX",
@@ -570,7 +570,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.28
+      "avg_price_all": 1.31
     },
     {
       "name": "BIRRA RICETTA ORIGINALE CON ORZO DI PUGLIA",
@@ -585,7 +585,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.17
+      "avg_price_all": 1.21
     },
     {
       "name": "DETERGENTE INTIMO NEUTRO DELICATO",
@@ -600,7 +600,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.57
+      "avg_price_all": 2.64
     },
     {
       "name": "DETERGENTE INTIMO LENITIVO SOLLIEVO",
@@ -615,7 +615,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.57
+      "avg_price_all": 2.64
     },
     {
       "name": "DETERGENTE INTIMO FRESCHEZZA ATTIVA CON ANTIBATTERICO",
@@ -630,7 +630,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.57
+      "avg_price_all": 2.64
     },
     {
       "name": "BIRRA NASTRO AZZURRO ",
@@ -645,7 +645,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.14
+      "avg_price_all": 1.17
     },
     {
       "name": "ACTIVIA CEREALI FIBRE E PROBIOTICO",
@@ -660,7 +660,7 @@
       "samples": 6,
       "supermarket": "cts",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.4
+      "avg_price_all": 1.37
     },
     {
       "name": "ACTIVIA CEREALI FIBRE E PROBIOTICO",
@@ -675,7 +675,7 @@
       "samples": 7,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.4
+      "avg_price_all": 1.37
     },
     {
       "name": "CHIANTI DOCG",
@@ -690,7 +690,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "BURGER VEGETALI AL POMODORO",
@@ -705,7 +705,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.41
+      "avg_price_all": 4.45
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO ARIA DI PRIMAVERA 42 LAVAGGI",
@@ -720,7 +720,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.74
+      "avg_price_all": 3.84
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO ARIA DI PRIMAVERA 42 LAVAGGI",
@@ -735,7 +735,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO SANDALO & CAPRIFOGLIO 42 LAVAGGI",
@@ -750,7 +750,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.66
+      "avg_price_all": 3.68
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO SANDALO & CAPRIFOGLIO 42 LAVAGGI",
@@ -765,7 +765,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.74
+      "avg_price_all": 3.76
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO DELICATO E SOFFICE 42 LAVAGGI",
@@ -780,7 +780,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO DELICATO E SOFFICE 42 LAVAGGI",
@@ -795,7 +795,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE FIORI DI TIARÈ & FRUTTI ROSSI 42 LAVAGGI",
@@ -810,7 +810,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.66
+      "avg_price_all": 3.68
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE FIORI DI TIARÈ & FRUTTI ROSSI 42 LAVAGGI",
@@ -825,7 +825,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.74
+      "avg_price_all": 3.76
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE ORCHIDEA VIOLA & MIRTILLI 42 LAVAGGI",
@@ -840,7 +840,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.66
+      "avg_price_all": 3.68
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE ORCHIDEA VIOLA & MIRTILLI 42 LAVAGGI",
@@ -855,7 +855,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.74
+      "avg_price_all": 3.76
     },
     {
       "name": "CAFFÈ CIOCCOLATINI FONDENTI RIPIENI",
@@ -884,7 +884,7 @@
       "samples": 3,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.41
+      "avg_price_all": 4.45
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO FRESH & PROTECT PEONIA ROSSA & MELA 41 LAVAGGI",
@@ -899,7 +899,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO FRESH & PROTECT PEONIA ROSSA & MELA 41 LAVAGGI",
@@ -914,7 +914,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "CHOCOLATE CRUNCH GELATO AL CACAO CON PEZZETTI DI CIOCCOLATO FONDENTE",
@@ -929,7 +929,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.82
+      "avg_price_all": 3.91
     },
     {
       "name": "BISTECCA DI MERLUZZO GRIGLIATA",
@@ -944,7 +944,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.79,
-      "avg_price_all": 4.45
+      "avg_price_all": 4.55
     },
     {
       "name": "BISTECCA DI MERLUZZO GRIGLIATA LIMONE E ROSMARINO",
@@ -959,7 +959,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.79,
-      "avg_price_all": 4.45
+      "avg_price_all": 4.55
     },
     {
       "name": "BIRRA CHILL LEMON",
@@ -974,7 +974,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.34
+      "avg_price_all": 2.37
     },
     {
       "name": "CIOKO MILKY LATTE CON CIOCCOLATO",
@@ -989,7 +989,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 1.76
+      "avg_price_all": 1.81
     },
     {
       "name": "CARTA IGIENICA BOUQUET MAXI (colorazione assortita)",
@@ -1004,7 +1004,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.12
+      "avg_price_all": 3.18
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -1019,7 +1019,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.69,
-      "avg_price_all": 2.11
+      "avg_price_all": 2.15
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -1034,7 +1034,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.69,
-      "avg_price_all": 2.11
+      "avg_price_all": 2.15
     },
     {
       "name": "CHICCHE DI SCAMORZA BIANCHE",
@@ -1049,7 +1049,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.56
+      "avg_price_all": 2.59
     },
     {
       "name": "BIRRA WEISSBIER MUNICH WHEAT",
@@ -1064,7 +1064,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.69,
-      "avg_price_all": 1.34
+      "avg_price_all": 1.37
     },
     {
       "name": "PRIMO SALE SENZA LATTOSIO",
@@ -1079,7 +1079,7 @@
       "samples": 6,
       "supermarket": "cts",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 2.22
+      "avg_price_all": 2.23
     },
     {
       "name": "PRIMO SALE SENZA LATTOSIO",
@@ -1109,7 +1109,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "ANTICALCARE CLASSICO",
@@ -1124,7 +1124,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "ANTICALCARE FRESCO PROFUMO ROSA DI PRIMAVERA",
@@ -1139,7 +1139,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "ANTICALCARE FRESCO PROFUMO ROSA DI PRIMAVERA",
@@ -1154,7 +1154,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "BARISTA AVENA",
@@ -1169,7 +1169,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "BAGNO EXPRESS SENZA RISCIACQUO",
@@ -1184,7 +1184,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "BAGNO EXPRESS SENZA RISCIACQUO",
@@ -1199,7 +1199,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.79
+      "avg_price_all": 2.84
     },
     {
       "name": "CIME DI RAPA",
@@ -1229,7 +1229,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.2
+      "avg_price_all": 1.22
     },
     {
       "name": "BIRRA FILTRATA A FREDDO",
@@ -1244,7 +1244,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.16
+      "avg_price_all": 1.14
     },
     {
       "name": "BIRRA NON FILTRATA",
@@ -1259,7 +1259,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.2
+      "avg_price_all": 1.22
     },
     {
       "name": "CACIO E PEPE",
@@ -1274,7 +1274,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.69,
-      "avg_price_all": 2.17
+      "avg_price_all": 2.21
     },
     {
       "name": "BEVANDA GUSTO MORBIDO SOIA",
@@ -1303,7 +1303,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.41
+      "avg_price_all": 2.45
     },
     {
       "name": "ACETO BALSAMICO DI MODENA IGP",
@@ -1318,7 +1318,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 7.24
+      "avg_price_all": 7.37
     },
     {
       "name": "ACETO BALSAMICO DI MODENA IGP",
@@ -1333,7 +1333,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 7.37
+      "avg_price_all": 7.49
     },
     {
       "name": "BARISTA SOYA",
@@ -1348,7 +1348,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.41
+      "avg_price_all": 2.45
     },
     {
       "name": "4 INVOLTINI PRIMAVERA VEGETARIANI",
@@ -1363,7 +1363,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.41
+      "avg_price_all": 2.45
     },
     {
       "name": "4 INVOLTINI PRIMAVERA VEGETARIANI",
@@ -1378,7 +1378,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.45
+      "avg_price_all": 2.49
     },
     {
       "name": "CARAMELLE GOMMOSE AI GUSTI FRUTTA",
@@ -1393,7 +1393,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.41
+      "avg_price_all": 2.45
     },
     {
       "name": "BURRO SORESINA LATTE PANNA",
@@ -1408,7 +1408,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.29,
-      "avg_price_all": 2.65
+      "avg_price_all": 2.7
     },
     {
       "name": "CARTE D'OR LA GELATERIA STRACCIATELLA E CACAO",
@@ -1423,7 +1423,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.82
+      "avg_price_all": 4.91
     },
     {
       "name": "CARTE D'OR LA GELATERIA VANIGLIA E NOCCIOLA",
@@ -1438,7 +1438,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.82
+      "avg_price_all": 4.91
     },
     {
       "name": "CIOCCOLATO AL LATTE CON GRANELLA DI BISCOTTO E CARAMELLO",
@@ -1453,7 +1453,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.06
+      "avg_price_all": 2.11
     },
     {
       "name": "CORNETTO MAX NOCCIOLA & CIOCCOLATO x6",
@@ -1468,7 +1468,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 4.82
+      "avg_price_all": 4.91
     },
     {
       "name": "CORNETTO MAX MANGO x6 ",
@@ -1497,7 +1497,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 7.49,
-      "avg_price_all": 6.7
+      "avg_price_all": 6.72
     },
     {
       "name": "BIRRA NASTRO AZZURRO",
@@ -1512,7 +1512,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.75
+      "avg_price_all": 2.8
     },
     {
       "name": "BEVANDA ALLA SOIA E CIOCCOLATO",
@@ -1527,7 +1527,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.75
+      "avg_price_all": 2.8
     },
     {
       "name": "BIRRA NASTRO AZZURRO SENZA ALCOL",
@@ -1542,7 +1542,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.75
+      "avg_price_all": 2.8
     },
     {
       "name": "ALBICOCCA SUCCO E POLPA",
@@ -1557,40 +1557,10 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.27
+      "avg_price_all": 2.31
     },
     {
       "name": "ALBICOCCA SUCCO E POLPA",
-      "vendor": "VALFRUTTA",
-      "price": 1.89,
-      "price_full": 2.79,
-      "label_discount": 32.3,
-      "real_discount_pct": 32.3,
-      "category": "Acqua, bibite e succhi",
-      "expire": "21/07/2026",
-      "avg_price_2m": 2.79,
-      "samples": 8,
-      "supermarket": "pewex",
-      "avg_nonpromo": 2.79,
-      "avg_price_all": 2.27
-    },
-    {
-      "name": "ACE",
-      "vendor": "VALFRUTTA",
-      "price": 1.89,
-      "price_full": 2.79,
-      "label_discount": 32.3,
-      "real_discount_pct": 32.3,
-      "category": "Acqua, bibite e succhi",
-      "expire": "21/07/2026",
-      "avg_price_2m": 2.79,
-      "samples": 5,
-      "supermarket": "cts",
-      "avg_nonpromo": 2.79,
-      "avg_price_all": 2.27
-    },
-    {
-      "name": "ACE",
       "vendor": "VALFRUTTA",
       "price": 1.89,
       "price_full": 2.79,
@@ -1605,6 +1575,36 @@
       "avg_price_all": 2.31
     },
     {
+      "name": "ACE",
+      "vendor": "VALFRUTTA",
+      "price": 1.89,
+      "price_full": 2.79,
+      "label_discount": 32.3,
+      "real_discount_pct": 32.3,
+      "category": "Acqua, bibite e succhi",
+      "expire": "21/07/2026",
+      "avg_price_2m": 2.79,
+      "samples": 5,
+      "supermarket": "cts",
+      "avg_nonpromo": 2.79,
+      "avg_price_all": 2.31
+    },
+    {
+      "name": "ACE",
+      "vendor": "VALFRUTTA",
+      "price": 1.89,
+      "price_full": 2.79,
+      "label_discount": 32.3,
+      "real_discount_pct": 32.3,
+      "category": "Acqua, bibite e succhi",
+      "expire": "21/07/2026",
+      "avg_price_2m": 2.79,
+      "samples": 8,
+      "supermarket": "pewex",
+      "avg_nonpromo": 2.79,
+      "avg_price_all": 2.34
+    },
+    {
       "name": "BIRRA ORIGINAL INTENSE BLOND ",
       "vendor": "8.6",
       "price": 1.29,
@@ -1617,7 +1617,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.54
+      "avg_price_all": 1.57
     },
     {
       "name": "BIRRA INTENSE RED",
@@ -1632,7 +1632,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.54
+      "avg_price_all": 1.57
     },
     {
       "name": "BIRRA INTENSE I.P.A STYLE",
@@ -1647,7 +1647,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.54
+      "avg_price_all": 1.57
     },
     {
       "name": "BAGNODOCCIA CREME SOFT",
@@ -1662,7 +1662,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "BAGNODOCCIA CREME SOFT",
@@ -1677,7 +1677,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "BAGNODOCCIA CREME CARE",
@@ -1692,7 +1692,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "BAGNODOCCIA CREME CARE",
@@ -1707,7 +1707,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "BAGNODOCCIA CREME ALOE & NATURAL ALOE",
@@ -1722,7 +1722,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "BAGNODOCCIA CREME ALOE & NATURAL ALOE",
@@ -1737,7 +1737,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 2.9
     },
     {
       "name": "CILIEGINE DI MOZZARELLA",
@@ -1752,7 +1752,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
+      "avg_price_all": 2.41
     },
     {
       "name": "CAPPUCCINO",
@@ -1767,7 +1767,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
+      "avg_price_all": 2.41
     },
     {
       "name": "A+C+E",
@@ -1782,10 +1782,40 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
+      "avg_price_all": 2.41
     },
     {
       "name": "A+C+E",
+      "vendor": "PFANNER",
+      "price": 1.99,
+      "price_full": 2.89,
+      "label_discount": 31.1,
+      "real_discount_pct": 31.1,
+      "category": "Acqua, bibite e succhi",
+      "expire": "21/07/2026",
+      "avg_price_2m": 2.89,
+      "samples": 8,
+      "supermarket": "pewex",
+      "avg_nonpromo": 2.89,
+      "avg_price_all": 2.44
+    },
+    {
+      "name": "ARANCIA ROSSA - CAROTA A+C+E",
+      "vendor": "PFANNER",
+      "price": 1.99,
+      "price_full": 2.89,
+      "label_discount": 31.1,
+      "real_discount_pct": 31.1,
+      "category": "Acqua, bibite e succhi",
+      "expire": "21/07/2026",
+      "avg_price_2m": 2.89,
+      "samples": 5,
+      "supermarket": "cts",
+      "avg_nonpromo": 2.89,
+      "avg_price_all": 2.41
+    },
+    {
+      "name": "ARANCIA ROSSA - CAROTA A+C+E",
       "vendor": "PFANNER",
       "price": 1.99,
       "price_full": 2.89,
@@ -1800,36 +1830,6 @@
       "avg_price_all": 2.41
     },
     {
-      "name": "ARANCIA ROSSA - CAROTA A+C+E",
-      "vendor": "PFANNER",
-      "price": 1.99,
-      "price_full": 2.89,
-      "label_discount": 31.1,
-      "real_discount_pct": 31.1,
-      "category": "Acqua, bibite e succhi",
-      "expire": "21/07/2026",
-      "avg_price_2m": 2.89,
-      "samples": 5,
-      "supermarket": "cts",
-      "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
-    },
-    {
-      "name": "ARANCIA ROSSA - CAROTA A+C+E",
-      "vendor": "PFANNER",
-      "price": 1.99,
-      "price_full": 2.89,
-      "label_discount": 31.1,
-      "real_discount_pct": 31.1,
-      "category": "Acqua, bibite e succhi",
-      "expire": "21/07/2026",
-      "avg_price_2m": 2.89,
-      "samples": 8,
-      "supermarket": "pewex",
-      "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
-    },
-    {
       "name": "ANANAS-COCCO",
       "vendor": "PFANNER",
       "price": 1.99,
@@ -1842,7 +1842,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
+      "avg_price_all": 2.41
     },
     {
       "name": "ANANAS-COCCO",
@@ -1857,7 +1857,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.37
+      "avg_price_all": 2.41
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -1872,7 +1872,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.59,
-      "avg_price_all": 2.12
+      "avg_price_all": 2.16
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -1887,7 +1887,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.59,
-      "avg_price_all": 2.12
+      "avg_price_all": 2.16
     },
     {
       "name": "BLENDED SCOTCH WHISKY",
@@ -1902,7 +1902,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 12.99,
-      "avg_price_all": 10.66
+      "avg_price_all": 10.84
     },
     {
       "name": "ACQUA NATURALE ECOGREEN",
@@ -1917,7 +1917,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 1.88
+      "avg_price_all": 1.91
     },
     {
       "name": "ACQUA NATURALE ECOGREEN",
@@ -1932,7 +1932,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.29,
-      "avg_price_all": 1.88
+      "avg_price_all": 1.91
     },
     {
       "name": "BIRRA NASTRO AZZURRO",
@@ -1947,7 +1947,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 0.99,
-      "avg_price_all": 0.79
+      "avg_price_all": 0.78
     },
     {
       "name": "BASTONCINI DI VERDURE CON EDAM",
@@ -1962,7 +1962,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.47
+      "avg_price_all": 1.51
     },
     {
       "name": "BASTONCINI DI SPINACI CON EDAM",
@@ -1977,7 +1977,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.47
+      "avg_price_all": 1.51
     },
     {
       "name": "BACON BURGER",
@@ -1992,7 +1992,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.64
+      "avg_price_all": 1.67
     },
     {
       "name": "BACON BURGER",
@@ -2007,7 +2007,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.64
+      "avg_price_all": 1.67
     },
     {
       "name": "AMANDO GELATO ALLA VANIGLIA VARIEGATO AL CACAO E NOCCIOLA",
@@ -2022,7 +2022,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "AMANDO GELATO ALLA VANIGLIA VARIEGATO AL CACAO E NOCCIOLA",
@@ -2037,7 +2037,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "AMANDO STECCHI GELATO ALLA VANIGLIA VARIEGATO AL LIME E ZENZERO CON COPERTURA DI SORBETTO ALLA FRUTTA x6",
@@ -2052,7 +2052,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "AMANDO STECCHI GELATO ALLA VANIGLIA VARIEGATO AL LIME E ZENZERO CON COPERTURA DI SORBETTO ALLA FRUTTA x6",
@@ -2067,7 +2067,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "CARTE D'OR SOFT & CRUNCHY CROCCANTE",
@@ -2082,7 +2082,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "CARTE D'OR SOFT & CRUNCHY CORNETTO",
@@ -2097,7 +2097,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "BALSAMO DEEP CARE INTENSE KERATIN PER CAPELLI FRAGILI",
@@ -2112,7 +2112,7 @@
       "samples": 3,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "BALSAMO DEEP CARE INTENSE KERATIN PER CAPELLI FRAGILI",
@@ -2127,7 +2127,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.12
+      "avg_price_all": 4.18
     },
     {
       "name": "BON ROLL CON SPINACI",
@@ -2142,7 +2142,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 9.99,
-      "avg_price_all": 8.24
+      "avg_price_all": 8.11
     },
     {
       "name": "BIANCO",
@@ -2157,7 +2157,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.39,
-      "avg_price_all": 1.98
+      "avg_price_all": 2.01
     },
     {
       "name": "ARANCIA ROSSA",
@@ -2172,7 +2172,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.16
+      "avg_price_all": 1.17
     },
     {
       "name": "ARANCIA ROSSA",
@@ -2187,7 +2187,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.16
+      "avg_price_all": 1.17
     },
     {
       "name": "BIRRA NASTRO AZZURRO STILE CAPRI",
@@ -2202,7 +2202,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.16
+      "avg_price_all": 1.17
     },
     {
       "name": "AL BRONZO LINGUINE N.312",
@@ -2217,7 +2217,7 @@
       "samples": 0,
       "supermarket": "cts",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.02
+      "avg_price_all": 1.05
     },
     {
       "name": "AL BRONZO LINGUINE N.312",
@@ -2232,7 +2232,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.02
+      "avg_price_all": 1.05
     },
     {
       "name": "ABBRACCI CON CACAO E PANNA FRESCA",
@@ -2247,7 +2247,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.36
     },
     {
       "name": "ABBRACCI CON CACAO E PANNA FRESCA",
@@ -2262,7 +2262,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.36
+      "avg_price_all": 2.39
     },
     {
       "name": "BISCOTTI",
@@ -2277,7 +2277,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.36
     },
     {
       "name": "BATTICUORI CON CACAO E CIOCCOLATO",
@@ -2292,7 +2292,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.36
     },
     {
       "name": "BB EXTRA",
@@ -2307,7 +2307,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.91
+      "avg_price_all": 2.95
     },
     {
       "name": "ACQUA NATURALE BABY",
@@ -2322,7 +2322,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.36
     },
     {
       "name": "ACQUA NATURALE BABY",
@@ -2337,7 +2337,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.32
+      "avg_price_all": 2.36
     },
     {
       "name": "BB EXTRA MIX MANDORLE MELA CIOCCOLATO FONDENTE E ZENZERO",
@@ -2352,7 +2352,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.78
+      "avg_price_all": 2.72
     },
     {
       "name": "CREAMY ORIGINAL VEGAN",
@@ -2367,7 +2367,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.52
+      "avg_price_all": 2.54
     },
     {
       "name": "COUS COUS INTEGRALE MIX DI VERDURE E STRACCETTI DI POLLO",
@@ -2382,7 +2382,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.91
+      "avg_price_all": 2.95
     },
     {
       "name": "CHOCO WAFER CIOCCOLATO FONDENTE",
@@ -2426,7 +2426,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 13.98,
-      "avg_price_all": 13.31
+      "avg_price_all": 13.37
     },
     {
       "name": "COUS COUS",
@@ -2441,7 +2441,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.08
+      "avg_price_all": 2.11
     },
     {
       "name": "ALCAMO DOC",
@@ -2456,7 +2456,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 5.49,
-      "avg_price_all": 4.62
+      "avg_price_all": 4.68
     },
     {
       "name": "ALCAMO DOC",
@@ -2471,7 +2471,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.49,
-      "avg_price_all": 4.62
+      "avg_price_all": 4.68
     },
     {
       "name": "CHARDONNAY SICILIA DOC",
@@ -2486,7 +2486,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.49,
-      "avg_price_all": 4.62
+      "avg_price_all": 4.68
     },
     {
       "name": "BOCCONCINI DI MOZZARELLA IN VASETTO",
@@ -2501,7 +2501,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.52
+      "avg_price_all": 2.56
     },
     {
       "name": "CANDEGGINA DELICATA PROFUMAZIONE ASSORTITA",
@@ -2516,7 +2516,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.52
+      "avg_price_all": 2.56
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -2531,7 +2531,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.6
+      "avg_price_all": 1.62
     },
     {
       "name": "ACQUA MINERALE EFFERVESCENTE NATURALE",
@@ -2546,7 +2546,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.89,
-      "avg_price_all": 1.6
+      "avg_price_all": 1.62
     },
     {
       "name": "BIRRA LIMONE",
@@ -2561,7 +2561,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 2.87
+      "avg_price_all": 2.91
     },
     {
       "name": "BIRRA BLONDE",
@@ -2576,7 +2576,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.53
+      "avg_price_all": 1.57
     },
     {
       "name": "BIRRA ROUGE",
@@ -2591,7 +2591,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.53
+      "avg_price_all": 1.57
     },
     {
       "name": "12 BASTONCINI",
@@ -2606,7 +2606,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.41
+      "avg_price_all": 3.45
     },
     {
       "name": "12 BASTONCINI",
@@ -2621,7 +2621,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.45
+      "avg_price_all": 3.49
     },
     {
       "name": "CHARDONNAY LAZIO IGP",
@@ -2636,7 +2636,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.41
+      "avg_price_all": 3.45
     },
     {
       "name": "CESANESE LAZIO IGP",
@@ -2651,7 +2651,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.32
+      "avg_price_all": 3.3
     },
     {
       "name": "DETERSIVO LAVATRICE CLASSICO 24 LAVAGGI",
@@ -2666,7 +2666,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.41
+      "avg_price_all": 3.45
     },
     {
       "name": "BIRBE POPS BOCCONCINI DI POLLO",
@@ -2681,7 +2681,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.07
+      "avg_price_all": 3.14
     },
     {
       "name": "CITTERINO MILANO RIASSUNTO",
@@ -2696,7 +2696,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.7
+      "avg_price_all": 1.72
     },
     {
       "name": "BON ROLL EASY RIPIENO CON SPINACI",
@@ -2739,7 +2739,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.12
+      "avg_price_all": 5.18
     },
     {
       "name": "958 SPRITZ APERITIVO READY TO DRINK",
@@ -2754,7 +2754,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.18
+      "avg_price_all": 5.24
     },
     {
       "name": "BIANCOSTATO IN SALSA BBQ",
@@ -2784,7 +2784,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.29,
-      "avg_price_all": 1.11
+      "avg_price_all": 1.13
     },
     {
       "name": "100% FRUTTA MELA E MIRTILLO",
@@ -2799,7 +2799,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.29,
-      "avg_price_all": 1.13
+      "avg_price_all": 1.14
     },
     {
       "name": "CREMA CORPO IDRATANTE RASSODANTE Q10",
@@ -2814,7 +2814,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 7.82
+      "avg_price_all": 7.91
     },
     {
       "name": "CAPSULE ESPRESSO SELECTION BARISTA INTENSITY 13 ",
@@ -2829,7 +2829,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 11.49,
-      "avg_price_all": 10.03
+      "avg_price_all": 10.14
     },
     {
       "name": "CAPSULE ESPRESSO FORZA INTENSITY 9",
@@ -2844,7 +2844,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 11.49,
-      "avg_price_all": 10.03
+      "avg_price_all": 10.14
     },
     {
       "name": "BLENDED JAPANESE WHISKY",
@@ -2873,7 +2873,7 @@
       "samples": 7,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.31
+      "avg_price_all": 1.33
     },
     {
       "name": "BAGNO FRESCHEZZA INTENSA AMBIPUR",
@@ -2888,7 +2888,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.2
+      "avg_price_all": 2.22
     },
     {
       "name": "BAGNO FRESCHEZZA INTENSA AMBIPUR",
@@ -2903,7 +2903,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.2
+      "avg_price_all": 2.22
     },
     {
       "name": "APERITIVO ANALCOLICO BIONDO RICETTA ORIGINALE",
@@ -2918,7 +2918,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.08
+      "avg_price_all": 3.11
     },
     {
       "name": "APERITIVO ANALCOLICO BIONDO RICETTA ORIGINALE",
@@ -2933,7 +2933,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.08
+      "avg_price_all": 3.11
     },
     {
       "name": "APERITIVO ANALCOLICO GUSTO ARANCIA ROSSA",
@@ -2948,7 +2948,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.08
+      "avg_price_all": 3.11
     },
     {
       "name": "APERITIVO ANALCOLICO GUSTO ARANCIA ROSSA",
@@ -2963,7 +2963,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.08
+      "avg_price_all": 3.11
     },
     {
       "name": "BARRETTA CIOCCOLATO FONDENTE AVENA E NOCCIOLE x4",
@@ -2978,7 +2978,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.2
+      "avg_price_all": 2.22
     },
     {
       "name": "CILIEGIE",
@@ -2992,7 +2992,8 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 1.95
+      "avg_nonpromo": 2.49,
+      "avg_price_all": 1.99
     },
     {
       "name": "BIRRA PERONCINO",
@@ -3021,7 +3022,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.41
+      "avg_price_all": 4.45
     },
     {
       "name": "CARTE D'OR AFFOGATO AL CIOCCOLATO",
@@ -3036,7 +3037,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.91
+      "avg_price_all": 3.99
     },
     {
       "name": "CARTE D'OR AFFOGATO AL CAFFÈ",
@@ -3051,7 +3052,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 3.91
+      "avg_price_all": 3.99
     },
     {
       "name": "CHARDONNAY UMBRIA IGT",
@@ -3066,7 +3067,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.32
+      "avg_price_all": 4.3
     },
     {
       "name": "DENTIFRICIO TRIPLA PROTEZIONE SENSITIVE",
@@ -3081,7 +3082,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.41
+      "avg_price_all": 4.45
     },
     {
       "name": "CHINÒ ZERO",
@@ -3096,7 +3097,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 0.99,
-      "avg_price_all": 0.88
+      "avg_price_all": 0.89
     },
     {
       "name": "COCKTAIL ZERO",
@@ -3111,7 +3112,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 0.99,
-      "avg_price_all": 0.88
+      "avg_price_all": 0.89
     },
     {
       "name": "BOURBON WHISKEY",
@@ -3168,7 +3169,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.49,
-      "avg_price_all": 4.91
+      "avg_price_all": 4.95
     },
     {
       "name": "BLENDED JAPANESE WHISKY AGED IN BOURBON BARREL",
@@ -3197,7 +3198,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 8.49,
-      "avg_price_all": 7.62
+      "avg_price_all": 7.68
     },
     {
       "name": "CIALDE PIÙ INTENSO",
@@ -3212,7 +3213,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 8.49,
-      "avg_price_all": 7.49
+      "avg_price_all": 7.45
     },
     {
       "name": "BURRATA DI BUFALA",
@@ -3227,7 +3228,7 @@
       "samples": 7,
       "supermarket": "pewex",
       "avg_nonpromo": 2.89,
-      "avg_price_all": 2.52
+      "avg_price_all": 2.5
     },
     {
       "name": "BONROLL POLPETTE CLASSICHE",
@@ -3241,7 +3242,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 3.95
+      "avg_price_all": 3.91
     },
     {
       "name": "CRACKER POMODORO E GRANA PADANO",
@@ -3256,7 +3257,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.39,
-      "avg_price_all": 1.89
+      "avg_price_all": 1.93
     },
     {
       "name": "ANSONICA COSTA DELL'ARGENTARIO DOC",
@@ -3271,7 +3272,7 @@
       "samples": 2,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.16
+      "avg_price_all": 5.22
     },
     {
       "name": "ANSONICA COSTA DELL'ARGENTARIO DOC",
@@ -3286,7 +3287,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.07
+      "avg_price_all": 5.14
     },
     {
       "name": "CAVOLINI DI BRUXELLES",
@@ -3301,7 +3302,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.39,
-      "avg_price_all": 1.89
+      "avg_price_all": 1.93
     },
     {
       "name": "4 HAMBURGER CON TACCHINO CON ROSMARINO",
@@ -3316,7 +3317,7 @@
       "samples": 1,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.12
+      "avg_price_all": 5.18
     },
     {
       "name": "4 HAMBURGER CON TACCHINO CON ROSMARINO",
@@ -3331,7 +3332,7 @@
       "samples": 3,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.18
+      "avg_price_all": 5.24
     },
     {
       "name": "CAPPELLETTI AL PROSCIUTTO CRUDO",
@@ -3346,7 +3347,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.7
+      "avg_price_all": 2.72
     },
     {
       "name": "CORNETTO MINI 4 CLASSICO 4 CARAMELLO",
@@ -3361,7 +3362,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 5.39,
-      "avg_price_all": 4.87
+      "avg_price_all": 4.91
     },
     {
       "name": "BISTECCHINE",
@@ -3376,7 +3377,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 14.98,
-      "avg_price_all": 13.52
+      "avg_price_all": 13.4
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP",
@@ -3391,7 +3392,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.7
+      "avg_price_all": 2.72
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP",
@@ -3406,7 +3407,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.72
+      "avg_price_all": 2.74
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP SENZA AGLIO",
@@ -3421,7 +3422,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.7
+      "avg_price_all": 2.72
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP SENZA AGLIO",
@@ -3436,7 +3437,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.72
+      "avg_price_all": 2.74
     },
     {
       "name": "MORTADELLA BOLOGNA IGP",
@@ -3451,7 +3452,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.81
+      "avg_price_all": 1.83
     },
     {
       "name": "MORTADELLA BOLOGNA IGP",
@@ -3465,6 +3466,21 @@
       "avg_price_2m": 1.99,
       "samples": 8,
       "supermarket": "pewex",
+      "avg_nonpromo": 1.99,
+      "avg_price_all": 1.84
+    },
+    {
+      "name": "ALBUME UOVO AEUILIBRIUM",
+      "vendor": "AIA",
+      "price": 1.69,
+      "price_full": 1.99,
+      "label_discount": 15.1,
+      "real_discount_pct": 15.1,
+      "category": "Latticini",
+      "expire": "21/07/2026",
+      "avg_price_2m": 1.99,
+      "samples": 5,
+      "supermarket": "cts",
       "avg_nonpromo": 1.99,
       "avg_price_all": 1.83
     },
@@ -3478,25 +3494,10 @@
       "category": "Latticini",
       "expire": "21/07/2026",
       "avg_price_2m": 1.99,
-      "samples": 5,
-      "supermarket": "cts",
-      "avg_nonpromo": 1.99,
-      "avg_price_all": 1.81
-    },
-    {
-      "name": "ALBUME UOVO AEUILIBRIUM",
-      "vendor": "AIA",
-      "price": 1.69,
-      "price_full": 1.99,
-      "label_discount": 15.1,
-      "real_discount_pct": 15.1,
-      "category": "Latticini",
-      "expire": "21/07/2026",
-      "avg_price_2m": 1.99,
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.81
+      "avg_price_all": 1.83
     },
     {
       "name": "BISTECCHINE DI REALE DI MANZO",
@@ -3511,7 +3512,7 @@
       "samples": 9,
       "supermarket": "pewex",
       "avg_nonpromo": 26.98,
-      "avg_price_all": 26.65
+      "avg_price_all": 26.36
     },
     {
       "name": "2 BURGER VEGETARIANI",
@@ -3554,7 +3555,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.2
+      "avg_price_all": 3.22
     },
     {
       "name": "BABY SUGO RAGU DI CARNE",
@@ -3582,7 +3583,7 @@
       "avg_price_2m": 3.49,
       "samples": 4,
       "supermarket": "pewex",
-      "avg_price_all": 2.92
+      "avg_price_all": 2.93
     },
     {
       "name": "SALMONE AFFUMICATO SELVAGGIO D'ALASKA",
@@ -3596,25 +3597,25 @@
       "avg_price_2m": 7.99,
       "samples": 5,
       "supermarket": "cts",
-      "avg_nonpromo": 7.99,
-      "avg_price_all": 7.41
-    },
-    {
-      "name": "SALMONE AFFUMICATO SELVAGGIO D'ALASKA",
-      "vendor": "CONSILIA",
-      "price": 6.99,
-      "price_full": 7.99,
-      "label_discount": 12.5,
-      "real_discount_pct": 12.5,
-      "category": "Pesce e salmone affumicato",
-      "expire": "21/07/2026",
-      "avg_price_2m": 7.99,
-      "samples": 8,
-      "supermarket": "pewex",
       "avg_nonpromo": 7.99,
       "avg_price_all": 7.45
     },
     {
+      "name": "SALMONE AFFUMICATO SELVAGGIO D'ALASKA",
+      "vendor": "CONSILIA",
+      "price": 6.99,
+      "price_full": 7.99,
+      "label_discount": 12.5,
+      "real_discount_pct": 12.5,
+      "category": "Pesce e salmone affumicato",
+      "expire": "21/07/2026",
+      "avg_price_2m": 7.99,
+      "samples": 8,
+      "supermarket": "pewex",
+      "avg_nonpromo": 7.99,
+      "avg_price_all": 7.49
+    },
+    {
       "name": "ACQUA MINERALE NATURALE",
       "vendor": "VALMORA",
       "price": 3.49,
@@ -3627,7 +3628,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.7
+      "avg_price_all": 3.72
     },
     {
       "name": "ACQUA MINERALE NATURALE",
@@ -3642,7 +3643,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.99,
-      "avg_price_all": 3.7
+      "avg_price_all": 3.72
     },
     {
       "name": "COTOLETTA SOTTILE CON FILETTI DI POLLO",
@@ -3657,7 +3658,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 3.39,
-      "avg_price_all": 3.02
+      "avg_price_all": 3.05
     },
     {
       "name": "ARISTA A FETTE",
@@ -3672,7 +3673,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 14.98,
-      "avg_price_all": 13.99
+      "avg_price_all": 14.07
     },
     {
       "name": "ARISTA A FETTE",
@@ -3687,7 +3688,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 14.98,
-      "avg_price_all": 13.99
+      "avg_price_all": 14.07
     },
     {
       "name": "CARNE AL FUOCO BIG BURGER DI BOVINO CON BACON E CIPOLLA",
@@ -3729,7 +3730,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 7.49
+      "avg_price_all": 7.53
     },
     {
       "name": "CARNE IN GELATINA",
@@ -3744,7 +3745,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.49,
-      "avg_price_all": 4.13
+      "avg_price_all": 4.16
     },
     {
       "name": "BLENDED JAPANESE WHISKY",
@@ -3787,7 +3788,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.74
+      "avg_price_all": 4.76
     },
     {
       "name": "CAFFÈ SOLUBILE PER LATTE",
@@ -3801,8 +3802,8 @@
       "avg_price_2m": 4.99,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 5.05,
-      "avg_price_all": 4.72
+      "avg_nonpromo": 5.09,
+      "avg_price_all": 4.77
     },
     {
       "name": "ALETTE DI POLLO STUZZICANTI E DORATE",
@@ -3817,7 +3818,7 @@
       "samples": 2,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.49
+      "avg_price_all": 4.45
     },
     {
       "name": "ALETTE DI POLLO STUZZICANTI E DORATE",
@@ -3831,7 +3832,7 @@
       "avg_price_2m": 4.99,
       "samples": 4,
       "supermarket": "pewex",
-      "avg_price_all": 4.45
+      "avg_price_all": 4.41
     },
     {
       "name": "BON ROLL CLASSICO",
@@ -3846,7 +3847,7 @@
       "samples": 1,
       "supermarket": "pewex",
       "avg_nonpromo": 9.99,
-      "avg_price_all": 7.74
+      "avg_price_all": 7.61
     },
     {
       "name": "CARNE AL FUOCO COSTINE DI SUINO AL ROSMARINO",
@@ -3860,7 +3861,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 10.49
+      "avg_price_all": 10.53
     },
     {
       "name": "CHICKEN SALAD",
@@ -3875,7 +3876,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 6.49,
-      "avg_price_all": 5.55
+      "avg_price_all": 5.51
     },
     {
       "name": "BISTECCA DI LOMBO SENZA OSSO",
@@ -3890,7 +3891,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 33.29,
-      "avg_price_all": 31.94
+      "avg_price_all": 32.05
     }
   ]
 }
