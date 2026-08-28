@@ -59,8 +59,8 @@
       "avg_price_2m": 2.3,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 2.89,
-      "avg_price_all": 2.89
+      "avg_nonpromo": 2.99,
+      "avg_price_all": 2.99
     },
     {
       "name": "CALAMARATA N.314",
@@ -180,7 +180,7 @@
       "samples": 5,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 0.89
+      "avg_price_all": 0.99
     },
     {
       "name": "CINSESINE N. 57",
@@ -660,7 +660,7 @@
       "samples": 6,
       "supermarket": "cts",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.18
+      "avg_price_all": 1.2
     },
     {
       "name": "ACTIVIA CEREALI FIBRE E PROBIOTICO",
@@ -675,7 +675,7 @@
       "samples": 7,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.13
+      "avg_price_all": 1.2
     },
     {
       "name": "CHIANTI DOCG",
@@ -720,7 +720,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.87
+      "avg_price_all": 4.99
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO ARIA DI PRIMAVERA 42 LAVAGGI",
@@ -808,7 +808,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.49
+      "avg_price_all": 4.7
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE FIORI DI TIARÈ & FRUTTI ROSSI 42 LAVAGGI",
@@ -823,7 +823,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.56
+      "avg_price_all": 4.7
     },
     {
       "name": "AMMORBIDENTE CONCENTRATO INTENSE CARE ORCHIDEA VIOLA & MIRTILLI 42 LAVAGGI",
@@ -866,7 +866,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.19
+      "avg_price_all": 2.36
     },
     {
       "name": "BIRBE RINGS ANELLI DI POLLO AL GUSTO DI FORMAGGIO E CIPOLLA",
@@ -985,8 +985,8 @@
       "avg_price_2m": 2.29,
       "samples": 8,
       "supermarket": "pewex",
-      "avg_nonpromo": 2.08,
-      "avg_price_all": 2.08
+      "avg_nonpromo": 2.03,
+      "avg_price_all": 2.03
     },
     {
       "name": "CARTA IGIENICA BOUQUET MAXI (colorazione assortita)",
@@ -1241,7 +1241,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.49,
-      "avg_price_all": 1.28
+      "avg_price_all": 1.35
     },
     {
       "name": "BIRRA NON FILTRATA",
@@ -1286,7 +1286,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 2.99,
-      "avg_price_all": 2.56
+      "avg_price_all": 2.7
     },
     {
       "name": "CARTA ASCIUGATUTTO MAXI",
@@ -1451,7 +1451,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 2.79,
-      "avg_price_all": 2.33
+      "avg_price_all": 2.22
     },
     {
       "name": "CORNETTO MAX NOCCIOLA & CIOCCOLATO x6",
@@ -1494,7 +1494,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 7.49,
-      "avg_price_all": 6.85
+      "avg_price_all": 6.56
     },
     {
       "name": "BIRRA NASTRO AZZURRO",
@@ -1958,7 +1958,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.85
+      "avg_price_all": 1.78
     },
     {
       "name": "BASTONCINI DI SPINACI CON EDAM",
@@ -1973,7 +1973,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.85
+      "avg_price_all": 1.78
     },
     {
       "name": "BACON BURGER",
@@ -2213,7 +2213,7 @@
       "samples": 0,
       "supermarket": "cts",
       "avg_nonpromo": 1.39,
-      "avg_price_all": 1.34
+      "avg_price_all": 1.39
     },
     {
       "name": "AL BRONZO LINGUINE N.312",
@@ -2348,7 +2348,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 2.85
+      "avg_price_all": 3.06
     },
     {
       "name": "CREAMY ORIGINAL VEGAN",
@@ -2378,7 +2378,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.2
+      "avg_price_all": 3.06
     },
     {
       "name": "CHOCO WAFER CIOCCOLATO FONDENTE",
@@ -2984,7 +2984,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 2.49,
-      "avg_price_all": 2.35
+      "avg_price_all": 2.49
     },
     {
       "name": "BIRRA PERONCINO",
@@ -3028,7 +3028,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.42
+      "avg_price_all": 4.13
     },
     {
       "name": "CARTE D'OR AFFOGATO AL CAFFÈ",
@@ -3043,7 +3043,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.42
+      "avg_price_all": 4.13
     },
     {
       "name": "CHARDONNAY UMBRIA IGT",
@@ -3058,7 +3058,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.56
+      "avg_price_all": 4.7
     },
     {
       "name": "DENTIFRICIO TRIPLA PROTEZIONE SENSITIVE",
@@ -3131,7 +3131,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "cts",
-      "avg_price_all": 11.49
+      "avg_price_all": 10.85
     },
     {
       "name": "ALEATICO IGP",
@@ -3145,7 +3145,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 11.28
+      "avg_price_all": 10.85
     },
     {
       "name": "CHIANTI DOCG",
@@ -3232,7 +3232,7 @@
       "avg_price_2m": null,
       "samples": 0,
       "supermarket": "pewex",
-      "avg_price_all": 3.85
+      "avg_price_all": 3.92
     },
     {
       "name": "CRACKER POMODORO E GRANA PADANO",
@@ -3307,7 +3307,7 @@
       "samples": 1,
       "supermarket": "cts",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.8
+      "avg_price_all": 5.99
     },
     {
       "name": "4 HAMBURGER CON TACCHINO CON ROSMARINO",
@@ -3322,7 +3322,7 @@
       "samples": 3,
       "supermarket": "pewex",
       "avg_nonpromo": 5.99,
-      "avg_price_all": 5.8
+      "avg_price_all": 5.99
     },
     {
       "name": "CAPPELLETTI AL PROSCIUTTO CRUDO",
@@ -3367,7 +3367,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 14.98,
-      "avg_price_all": 13.41
+      "avg_price_all": 12.84
     },
     {
       "name": "PESTO ALLA GENOVESE CON BASILICO GENOVESE DOP",
@@ -3472,7 +3472,7 @@
       "samples": 5,
       "supermarket": "cts",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.93
+      "avg_price_all": 1.85
     },
     {
       "name": "ALBUME UOVO AEUILIBRIUM",
@@ -3487,7 +3487,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 1.99,
-      "avg_price_all": 1.92
+      "avg_price_all": 1.85
     },
     {
       "name": "BISTECCHINE DI REALE DI MANZO",
@@ -3545,7 +3545,7 @@
       "samples": 8,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.35
+      "avg_price_all": 3.2
     },
     {
       "name": "BABY SUGO RAGU DI CARNE",
@@ -3560,7 +3560,7 @@
       "samples": 2,
       "supermarket": "cts",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.24
+      "avg_price_all": 3.35
     },
     {
       "name": "BABY SUGO RAGU DI CARNE",
@@ -3575,7 +3575,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 3.49,
-      "avg_price_all": 3.28
+      "avg_price_all": 3.35
     },
     {
       "name": "SALMONE AFFUMICATO SELVAGGIO D'ALASKA",
@@ -3723,7 +3723,7 @@
       "samples": 0,
       "supermarket": "pewex",
       "avg_nonpromo": 8.99,
-      "avg_price_all": 7.7
+      "avg_price_all": 7.85
     },
     {
       "name": "CARNE IN GELATINA",
@@ -3811,7 +3811,7 @@
       "samples": 2,
       "supermarket": "cts",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.74
+      "avg_price_all": 4.85
     },
     {
       "name": "ALETTE DI POLLO STUZZICANTI E DORATE",
@@ -3826,7 +3826,7 @@
       "samples": 4,
       "supermarket": "pewex",
       "avg_nonpromo": 4.99,
-      "avg_price_all": 4.7
+      "avg_price_all": 4.85
     },
     {
       "name": "BON ROLL CLASSICO",
@@ -3840,8 +3840,7 @@
       "avg_price_2m": 9.99,
       "samples": 1,
       "supermarket": "pewex",
-      "avg_nonpromo": 9.99,
-      "avg_price_all": 7.13
+      "avg_price_all": 6.85
     },
     {
       "name": "CARNE AL FUOCO COSTINE DI SUINO AL ROSMARINO",
